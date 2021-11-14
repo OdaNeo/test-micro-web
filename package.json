@@ -1,0 +1,20 @@
+{
+  "author": {
+    "name": "yancy"
+  },
+  "description": "微前端测试，谨慎下载",
+  "keywords": [
+    "micro"
+  ],
+  "license": "ISC",
+  "main": "index.js",
+  "name": "test-micro-web",
+  "repository": {
+    "type": "git",
+    "url": "https://gitee.com/sounmos/micro-web-test"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "version": "1.0.5"
+}
